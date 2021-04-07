@@ -1,0 +1,8 @@
+
+Private and Public Key Files should be placed here in the following format:
+
+appd-azure-cloud-kickstart.pem
+appd-azure-cloud-kickstart.pub
+
+These key files will be provided to you by your workshop organizer. These ssh key files are used for the controller and extension.
+
